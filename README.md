@@ -1,7 +1,5 @@
 ### Hello, I'm David Daniel Kozma 👋
 
-- 🔭 I’m currently working on LBP algorithm implementation.
-- 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me: 
 - Linkedin - https://linkedin.com/in/david-daniel-kozma-647838220
 - CodeWars - https://www.codewars.com/users/kukac001
