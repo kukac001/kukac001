@@ -1,7 +1,7 @@
 ### Hello, I'm David Daniel Kozma 👋
 
 - 📫 How to reach me: 
-- Linkedin - https://linkedin.com/in/david-daniel-kozma-647838220
+- Linkedin - https://www.linkedin.com/in/david-daniel-kozma/
 - CodeWars - https://www.codewars.com/users/kukac001
 - HackerRank - https://www.hackerrank.com/daniel_kozma13
 
